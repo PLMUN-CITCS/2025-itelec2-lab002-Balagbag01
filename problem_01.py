@@ -15,5 +15,5 @@ print(f"The difference is {num1 - num2}")
 print(f"the product is {num1 * num2}")
 
 print(f"The quotient is {(num1 / num2):.2f}")
-if __name__ == "__main__";
+if __name__ == "__main__":
   main()
